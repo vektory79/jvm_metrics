@@ -9,7 +9,7 @@
 
 Если её запустить, то мы увидим окно с диалогом подключения в котором мы можем выбрать один из запущенных процессов:
 
-![[jvm_metrics_images/jconsole_connect.png]]
+![](jvm_metrics_images/jconsole_connect.png)
 После выбора необходимого процесса открывается окно с несколькими графиками:
 
 ![[jvm_metrics_images/jconsole_graphics.png]]
